@@ -13,5 +13,5 @@ export interface Product {
     category:string;
     stock:number;
     rating:number;
-    discription:string;
+    description:string;
 }
